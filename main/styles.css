@@ -1,0 +1,229 @@
+* {
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #F39391;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+}
+
+h1:hover {
+    cursor: pointer;
+    color: #E6A8AB;
+    font-size:  55px;
+}
+
+#description, strong {
+    background-color: grey;
+    height: 50px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#tabs-port {
+    background-color: #474747;
+    height: 100px;
+    /* width: 500px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tuun {
+    color: white;
+    background-color: black;
+    padding: 8.5px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 50px;
+}
+
+.tuun:hover {
+    color: white;
+    background-color: #D2716F;
+    cursor: pointer;
+}
+
+select {
+    padding: 4px;
+    color: white;
+    background-color: #B47271;
+}
+
+#profile-link {
+    border-style: solid;
+    border-color: #F39391;
+    background-color: #F39391;
+    color: white;
+    height: 55px;
+    width: 55px;
+    border-radius: 50%;
+    position: absolute;
+    right: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#profile-link:hover {
+    border-color: white;
+    cursor: pointer;
+    height: 60px;
+    width: 60px;
+}
+
+label, select {
+    margin: 5px;
+}
+
+#addTrackCard {
+    color: white;
+    background-color: #474747;
+    height: 400px;
+    width: 300px;
+    margin: 50px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 5px;
+}
+
+.trackElements {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+}
+
+ #tracksContainer {
+    width: 1500px;
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    
+    flex-wrap: wrap-reverse;
+    flex-direction: row-reverse;
+    /* justify-content: left; */
+    
+    
+} 
+
+#cardContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#friends-tuun {
+    font-size: 12px;
+    padding: 10px;
+    color: white;
+    background-color: black;
+}
+
+#addTrackBtn {
+    border-style: solid;
+    border-color: #f39391;
+    padding: 5px;
+    font-size: 15px;
+    color: white;
+    margin-left: 30px;
+    background-color: #f39391;
+}
+
+#addTrackBtn:hover {
+    background-color: #474747;
+    cursor: pointer;
+}
+
+#getAllTracksBtn {
+    border-style: solid;
+    border-color: #f39391;
+    padding: 5px;
+    font-size: 15px;
+    color: white;
+    margin: 10px;
+    margin-left: 30px;
+    background-color: #f39391;
+}
+
+#getAllTracksBtn:hover {
+    background-color: #474747;
+    cursor: pointer;
+}
+
+.trackElements {
+    padding:  10px;
+    border-style: solid;
+    border-color: #f39391;
+}
+
+div.track-card {
+    /* display: flex; */
+    /* flex-direction: row-reverse; */
+    height:420px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    background-color: #474747;
+    margin: 10px;
+}
+
+p.track, p.artist, p.album {
+    width: 155px;
+    padding: 5px;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    margin: 7.5px;
+    margin-left: 15px;
+}
+
+img.track-cover-image {
+    margin-top: 0px;
+    height: 200px;
+    width: 200px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+button#delete {
+    border-style: solid;
+    border-color: #f39391;
+    padding: 5px;
+    font-size: 15px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-bottom: 0px; */
+    margin-left: 10px;
+    background-color: #f39391;
+    /* display: flex; */
+    /* justify-content: flex-start; */
+}
+
+#delete:hover {
+    background-color: #474747;
+    cursor: pointer;
+}
+
+main {
+    display: flex;
+}
+
+

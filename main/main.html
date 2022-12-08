@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="./styles.css">
+        <title>TUUN</title>
+    </head>
+    <body>
+        
+        <div id="tabs-port">
+            <h1>TUUN</h1>
+                
+            <div id="profile-link">ME</div>
+             
+        </div>
+
+        <div id="description">
+           <strong> "MUSIC SHARING, MADE EASY"</strong>
+        </div>
+
+        <main>
+
+    <div id="addTrackCard">
+
+        <form id="addElements">
+             <input 
+                class="trackElements"
+                type="text"
+                id="album"
+                placeholder="ALBUM"/>
+    
+             <input 
+                class="trackElements"
+                type="text"
+                id="artist"
+                placeholder="ARTIST"/>
+    
+            <input 
+                class="trackElements"
+                type="text"
+                id="track"
+                placeholder="TRACK"/>
+
+            <input
+                class="trackElements"
+                type="text"
+                id="cover"
+                placeholder="ALBUM COVER URL"/>           
+        </form>
+
+        <button id="addTrackBtn">ADD TRACK</button>
+        
+        <button id="getAllTracksBtn">GET ALL TRACKS</button>
+        
+    </div>
+                    
+                    
+            <div id="tracksContainer">
+            
+            </div>
+      
+        </main>
+                     
+        <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+        <script src="./main.js"></script>
+    </body>
+
+    </html>

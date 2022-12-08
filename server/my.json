@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "album": "Swimming",
+        "track": "Wings",
+        "artist": "Mac Miller",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Mac_Miller_-_Swimming.png/220px-Mac_Miller_-_Swimming.png"
+    },
+
+    {
+        "id": 2,
+        "album": "Watch The Throne",
+        "track": "Gotta Have it",
+        "artist": "Jay-Z, Kanye West", 
+        "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Watch_The_Throne.jpg/220px-Watch_The_Throne.jpg"
+    },
+
+    {
+        "id": 3,
+        "album": "Toto IV",
+        "track": "Africa",
+        "artist": "TOTO",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Toto_Toto_IV.jpg/220px-Toto_Toto_IV.jpg"
+    },
+
+    {
+        "id": 4,
+        "album": "GO:OD AM",
+        "track": "Brand Name",
+        "artist": "Mac Miller",
+        "cover": "https://media.npr.org/assets/img/2015/09/09/goodam_front-rgb_sq-adab53447161d6ad22e52c179a17d06295ec844f-s300-c85.webp"
+    },
+
+    {
+        "id": 5,
+        "album": "3001: A Laced Odyssey",
+        "track": "Bounce",
+        "artist": "Flatbush Zombies",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/3001ALaced_Odyssey.jpeg/220px-3001ALaced_Odyssey.jpeg"
+    },
+    
+    {
+        "id": 6,
+        "album": "Elephunk",
+        "track": "Where Is The Love?",
+        "artist": "Black Eyed Peas",
+        "cover": "https://m.media-amazon.com/images/I/61qJuJNutSL._SY580_.jpg"
+    },
+
+    {
+        "id": 7,
+        "album": "The Life Of Pablo",
+        "track": "Wolves",
+        "artist": "Kanye West",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/The_life_of_pablo_alternate.jpg/220px-The_life_of_pablo_alternate.jpg"
+    },
+
+    {
+        "id": 8,
+        "album": "SATURATION II",
+        "track": "TOKYO",
+        "artist": "BROCKHAMPTON",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/d/d1/Brockhampton_-_Saturation_II.png"
+    },
+
+    {
+        "id": 9,
+        "album": "N/A",
+        "track": "Small Talk",
+        "artist": "Briston Maroney",
+        "cover": "https://shorefire.com/images/made/images/uploads/files/Indiana_-_3000x3000_400_400_s_c1.jpg"
+    },
+
+    {
+        "id": 10,
+        "album": "Drip Harder",
+        "track": "Drip Too Hard",
+        "artist": "Gunna",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/e/eb/Drip_Harder_by_Lil_Baby_%26_Gunna.jpg"
+    },
+
+    {
+        "id": 11,
+        "album": "Probably Wrong",
+        "track": "I Can't Breathe",
+        "artist": "Parker McCollum",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f9dea2c65a010cf270ca46fe"
+    }
+
+]

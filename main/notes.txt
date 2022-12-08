@@ -1,0 +1,4 @@
+POSTMAN
+GET ALL MUSIC = http://localhost:4000/api/myMusic
+
+<!-- <img src="https://eduhub-stage.adobecqms.net/content/dam/edu-hub-assets/blog2/78_04_article.gif" -->
